@@ -13,5 +13,15 @@
         <property name="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</property>
         
 <mapping class="com.niit.demo.Employee"></mapping>
+
+<mapping class="com.niit.demo.Customer"></mapping>
+<mapping class="com.niit.demo.Address"></mapping>
+    
+<mapping class="com.niit.demo.Author"></mapping>
+<mapping class="com.niit.demo.Book"></mapping>
+    
+<mapping class="com.niit.demo.Question"></mapping>
+<mapping class="com.niit.demo.Answer"></mapping>
     </session-factory>
+    
 </hibernate-configuration>
