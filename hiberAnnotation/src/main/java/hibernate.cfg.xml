@@ -22,6 +22,9 @@
     
 <mapping class="com.niit.demo.Question"></mapping>
 <mapping class="com.niit.demo.Answer"></mapping>
+
+<mapping class="com.niit.demo.Item"></mapping>
+<mapping class="com.niit.demo.Cart"></mapping>
     </session-factory>
     
 </hibernate-configuration>
